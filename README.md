@@ -39,7 +39,6 @@ The project includes the following key features:
     - Evaluation of asset rarity based on the occurrence of specific traits.
     - Sorting and display of the top 20 rarest assets on the dashboard.
 4. **Visualization**
-    - Accessing OpenSea API endpoints to retrieve asset details, events, and rarity data.
     - Structured presentation of retrieved data using tables and visualizations.
     - Rendering asset details, including names, descriptions, and images.
 
