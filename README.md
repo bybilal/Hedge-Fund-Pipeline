@@ -4,7 +4,7 @@ Updated: June 3, 2023 3:56 PM
 # **OpenSea API Analysis Pipeline for Hedge Fund Dashboard**
 
 
-Note: This project serves as an educational illustration, showcasing the organization of data pipelines, cross-team collaboration, and scalable file structure within a hedge fund. It provides valuable insights into best practices for building efficient and modular systems to extract value on NFTs on Opensea, which is on the Ethereum blockchain.
+Note: This project serves as an educational illustration, showcasing the organization of data pipelines, cross-team collaboration, and scalable file structure within a hedge fund. It provides valuable insights into best practices for building efficient and modular systems to extract value from non-fungible tokens on Opensea, which is an NFT-marketplace on the Ethereum blockchain.
 
 ## **Introduction**
 
