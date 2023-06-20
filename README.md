@@ -4,11 +4,11 @@ Updated: June 3, 2023 3:56 PM
 # **OpenSea API Analysis Pipeline for Hedge Fund Dashboard**
 
 
-Note: This project serves as an educational illustration, showcasing the organization of data pipelines, cross-team collaboration, and scalable file structure within a hedge fund. It provides valuable insights into best practices for building efficient and modular systems to extract value from non-fungible tokens on Opensea, which is an NFT-marketplace on the Ethereum blockchain.
+Note: This project serves as an educational illustration, showcasing the organization of data pipelines, cross-team collaboration, and scalable file structure within a hedge fund. It provides valuable insights into best practices for building efficient and modular systems to extract value from non-fungible tokens on Opensea, an NFT-marketplace on the Ethereum blockchain.
 
 ## **Introduction**
 
-This comprehensive project overview encapsulates the key aspects of the OpenSea API Data Analysis project tailored specifically for a hedge fund dashboard. The project's primary aim was to proficiently extract, transform, and load data obtained from the OpenSea API, integrating it seamlessly into a bespoke dashboard.
+This comprehensive project overview encapsulates the key aspects of the OpenSea API tailored specifically for a web3 fund. The project's primary aim is to proficiently extract, transform, and load data obtained from the OpenSea API, integrating it seamlessly into a dashboard.
 
 ## **Technologies Used**
 
@@ -22,7 +22,7 @@ To simulate the development of this project, we leverage various technologies th
 
 ## **Project Description**
 
-The OpenSea API NFT Data Analysis pipeline, introduced in 2021, revolutionized the integration of NFT technology and traditional finance. It seamlessly bridged the data gap by incorporating on-chain Ethereum data into hedge fund analysis, providing comprehensive and timely information for informed investment decisions in the emerging NFT market. This forward-thinking initiative showcased the project's ability to address the evolving needs of fund managers and navigate the world of digital assets. Its well-structured repository and file organization offer software engineers a valuable template to leverage Streamlit for intuitive visualization of on-chain NFT data and other applications
+The OpenSea API NFT Data Analysis pipeline, introduced in 2021, revolutionized the integration of NFT technology and traditional finance. It seamlessly bridged the data gap by incorporating on-chain Ethereum data, providing comprehensive and timely information for informed investment decisions in the emerging NFT market. The file organization offers software engineers a valuable template to leverage Streamlit and Pandas for intuitive visualization of on-chain NFT data and other applications
 
 ## **Key Features and Functionality**
 
